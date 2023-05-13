@@ -208,6 +208,8 @@ column-gap: 24px;
 .index-btn:hover,
 .index-btn:focus {
     background-color: #404BBF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+
 }
 
 /* =================Опис================== */
@@ -337,6 +339,7 @@ padding-bottom: 120px;
     background-color: #404BBF;
     color: #ffffff;
     border: 1px solid transparent;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 }
 
 .main-portfolio {
