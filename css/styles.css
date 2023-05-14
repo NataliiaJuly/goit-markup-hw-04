@@ -316,6 +316,15 @@ padding-bottom: 120px;
  
 }
 
+.description-subtitle-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}    
+
 .text-description {
     flex-basis: calc((100% - 72px)/4);
 }
@@ -417,8 +426,6 @@ padding-bottom: 120px;
 
 .customers-list-item {
     display: flex;
-    margin-top: 72px;
-    /* margin-bottom: 120px;  */
     width: calc((100%-120px)/6);
     height: 88px;
 }
